@@ -388,7 +388,7 @@ MonoBehaviour:
     damageOnHit: 1
     continuousDamage: 0
     delayBetweenShots: 0.8
-    velocity: 70
+    velocity: 80
   - type: 6
     letter: O
     color: {r: 0, g: 1, b: 0.024693727, a: 1}
