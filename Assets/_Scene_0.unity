@@ -356,16 +356,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabEnemies:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
+  - {fileID: 1934490829917124494, guid: 54869cfdf3cc5564aa08f20d6ca9d8eb, type: 3}
   enemySpawnPerSecond: 0.5
   enemyDefaultPadding: 1.5
   weaponDefinitions:
